@@ -3,6 +3,8 @@
 ## Overview
 
 BIAdb is a curated database of Benzylisoquinoline Alkaloids (BIAs), an important class of naturally occurring alkaloids known for their pharmacological and therapeutic properties. The database compiles chemical, structural, biological, and functional information related to BIA compounds from multiple public resources and literature sources.
+webserver ; https://webs.iiitd.edu.in/raghava/biadb/
+zenodo : https://doi.org/10.5281/zenodo.20068972
 
 The project aims to support researchers working in:
 
