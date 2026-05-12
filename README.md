@@ -6,6 +6,9 @@ BIAdb is a curated database of Benzylisoquinoline Alkaloids (BIAs), an important
 webserver ; https://webs.iiitd.edu.in/raghava/biadb/
 zenodo : https://doi.org/10.5281/zenodo.20068972
 
+## Cite this article
+Singla, D., Sharma, A., Kaur, J. et al. BIAdb: A curated database of benzylisoquinoline alkaloids. BMC Pharmacol 10, 4 (2010). https://doi.org/10.1186/1471-2210-10-4
+
 The project aims to support researchers working in:
 
 * Drug discovery and development
