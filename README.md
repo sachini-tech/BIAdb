@@ -191,8 +191,6 @@ Singla D, Sharma A, Kaur J, Panwar B, Raghava GPS.
 BMC Pharmacology, 2010, 10:4.
 DOI: 10.1186/1471-2210-10-4
 
-Source PDF: filecite turn file0
-
 ---
 
 ## Availability
